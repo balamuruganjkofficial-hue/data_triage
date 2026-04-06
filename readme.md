@@ -1,4 +1,4 @@
- Enterprise AI Data Triage System 
+ AI Data Triage System 
 
 An end-to-end Machine Learning ETL pipeline designed to automatically clean messy datasets, route broken data to quarantine, and utilize unsupervised AI to detect mathematical anomalies (fraud). 
 
