@@ -1,0 +1,12 @@
+# Ignore generated data folders
+drop_zone/
+clean_data/
+anomalies/
+dirty_data/
+raw_archive/
+
+# Ignore CSV files
+*.csv
+
+# Ignore Python cache files
+__pycache__/
